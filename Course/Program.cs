@@ -19,7 +19,10 @@ namespace Course {
             object obj2 = 4.5f;
             // string - Uma cadeia de caracteres Unicode IMUTÁVEL (segurança, simplicidade, thread safe)
             // object - Um objeto genérico (toda classe em C# é subclasse de object) GetType, Equals, GetHashCode, ToString
-
+            // Funções para valores mínimos e máximos - int.MinValue, int.MaxValue
+            n2 = int.MinValue;
+            n3 = int.MaxValue;
+            
 
             Console.WriteLine(completo);
             Console.WriteLine(genero);
