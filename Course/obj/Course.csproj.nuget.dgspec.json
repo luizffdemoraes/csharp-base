@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\estudos\\net\\projetos\\Course\\Course.csproj": {}
+    "C:\\estudos\\net\\projetos\\Course\\Course.csproj": {}
   },
   "projects": {
-    "c:\\estudos\\net\\projetos\\Course\\Course.csproj": {
+    "C:\\estudos\\net\\projetos\\Course\\Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\estudos\\net\\projetos\\Course\\Course.csproj",
+        "projectUniqueName": "C:\\estudos\\net\\projetos\\Course\\Course.csproj",
         "projectName": "Course",
-        "projectPath": "c:\\estudos\\net\\projetos\\Course\\Course.csproj",
+        "projectPath": "C:\\estudos\\net\\projetos\\Course\\Course.csproj",
         "packagesPath": "C:\\Users\\luiz9\\.nuget\\packages\\",
-        "outputPath": "c:\\estudos\\net\\projetos\\Course\\obj\\",
+        "outputPath": "C:\\estudos\\net\\projetos\\Course\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luiz9\\AppData\\Roaming\\NuGet\\NuGet.Config",
